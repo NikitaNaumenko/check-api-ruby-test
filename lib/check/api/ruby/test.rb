@@ -6,6 +6,7 @@ module Check
       module Test
         class Error < StandardError; end
         asdf
+        as
         # Your code goes here...
       end
     end
