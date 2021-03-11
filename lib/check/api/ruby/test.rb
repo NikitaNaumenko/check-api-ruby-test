@@ -5,6 +5,7 @@ module Check
     module Ruby
       module Test
         class Error < StandardError; end
+        asdf
         # Your code goes here...
       end
     end
