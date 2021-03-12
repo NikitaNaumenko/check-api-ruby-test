@@ -7,6 +7,7 @@ module Check
         class Error < StandardError; end
         # Your code goes here...
         test
+        test
       end
     end
   end
