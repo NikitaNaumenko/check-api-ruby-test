@@ -8,6 +8,7 @@ module Check
         # Your code goes here...
         test
         test
+        test
       end
     end
   end
